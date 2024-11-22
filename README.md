@@ -17,7 +17,6 @@ Welcome to **Insightly** - A comprehensive blog site to share and discover insig
 - **Backend**: Go, Fiber
 - **Database**: PostgreSQL, GORM
 - **Authentication**: JWT (JSON Web Tokens)
-- **Hosting**: Heroku
 
 ## Installation 🛠️
 
